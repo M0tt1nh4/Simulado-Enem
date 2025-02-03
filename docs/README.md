@@ -1,41 +1,41 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)_(Entrega_04)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2024.2_G1_Jogo_Entrega_04*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Projeto G3_Aprender
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 03<br>
 **Entrega**: 04<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+| Matrícula | Aluno |
+| -- | -- |
+| 190101750 | Ana Carolina |
+| 222037657 | Arthur Alves |
+| 221022515 | Danilo Naves |
+| 221007994 | Diego Sousa |
+| 221022266 | Eric Silveira |
+| 221031158 | Felipe de Oliveira |
+| 211043647 | Giovanni Alvissus |
+| 211039457 | Gustavo Roberto |
+| 221031185 | João Artur |
+| 211030809 | Julio Cesar |
+| 221022669 | Luiz Gustavo |
+| 221022417 | Paulo Henrique |
+
+## Sobre
+
+Neste repositório, documentamos todos os artefatos desenvolvidos pelo grupo para a quarta entrega, abordando os seguintes aspectos principais:
+
 
 ## Screenshots da Quarta Entrega
+
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Há algo a ser executado?
 
-( ) SIM
+(X) SIM
 
 ( ) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
