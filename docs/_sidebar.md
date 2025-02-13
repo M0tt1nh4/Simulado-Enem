@@ -4,11 +4,14 @@
 
 - **Avaliações**
   - **Desenho de Software (Base)**
-    - [1. Contribuições](/Avaliacoes/entrega_01.md)
+    - [Entrega 1](/Avaliacoes/entrega_01.md)
+    - [Entrega 2](/Avaliacoes/entrega_2.md)
 
 - **Reuniões**
   - [Ata da Reunião 19/10/2024](/Atas/reuniao_19-10-24.md)
   - [Ata da Reunião 30/10/2024](/Atas/reuniao_30-10-24.md)
+  - [1. Priorização](/Atas/1.Priorizacao.md)
+  - [2. Diagrama de Pacotes](/Atas/2.Diagrama-de-Pacotes.md)
 
 - **Design Sprint**
   - [0. Planejamento](/DesignSprint/planejamento.md)
@@ -44,15 +47,6 @@
 
   - [Lacuna na graduação](/TermosDeConsentimento/Enquetes/Brainly.md)
 
-- **Templates**
-  - [Artefato](/Templates/template_artefato.md)
-
-<!-- docs/_sidebar.md -->
-
-
-
-- [Home](/)
-
 - **Planejamento**
   - [BPMN](/Planejamento/BPMN.md)
 
@@ -80,20 +74,6 @@
     - [2.4. Participações - Modelagem](/Modelagem/2.6.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
 
-- **Avaliações**
-  - [Entrega 2](/Avaliacoes/entrega_2.md)
-
-- **Atas**
-  - [1. Priorização](/Atas/1.Priorizacao.md)
-  - [2. Diagrama de Pacotes](/Atas/2.Diagrama-de-Pacotes.md)
-
-- **Templates**
-  - [Artefato](/Templates/template_artefato.md)
-<!-- docs/_sidebar.md -->
-
-- [Home](/)
-- [Projetos](Projetos/Projetos.md)
-
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Padrões de Projeto GoFs Criacionais](PadroesDeProjeto/3.1.GoFsCriacionais.md)
@@ -112,11 +92,11 @@
       - [3.5.1. MVC](PadroesDeProjeto/IniciativasExtras/mvc.md)
       - [3.5.2. SOLID](PadroesDeProjeto/IniciativasExtras/solid.md)
 
-<!-- docs/_sidebar.md -->
-
-- [Home](/)
 - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. DAS](/ArquiteturaReutilizacao/4.1.DAS.md)
     - [4.2. Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+
+- **Templates**
+  - [Artefato](/Templates/template_artefato.md)
