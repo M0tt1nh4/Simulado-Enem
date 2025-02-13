@@ -111,3 +111,12 @@
     - [3.5. Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.5.IniciativasExtras.md)
       - [3.5.1. MVC](PadroesDeProjeto/IniciativasExtras/mvc.md)
       - [3.5.2. SOLID](PadroesDeProjeto/IniciativasExtras/solid.md)
+
+<!-- docs/_sidebar.md -->
+
+- [Home](/)
+- **Arquitetura de Software & Reutilização**
+  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
+    - [4.1. DAS](/ArquiteturaReutilizacao/4.1.DAS.md)
+    - [4.2. Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+    - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
