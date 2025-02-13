@@ -116,4 +116,8 @@ Estudantes do ensino médio e pessoas que desejam prestar o ENEM.
 
 | Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       | Detalhes da revisão        |
 | ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | -------------------------- |
+<<<<<<< HEAD
 | `1.0`  | 01/11/2024 | 02/11/2024               | Criação do documento | [Giovanni Giampauli](https://github.com/giovanniacg) | [Gustavo Melo](https://github.com/gusrberto) | [#26](https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_01/pull/26) |
+=======
+| `1.0`  | 01/11/2024 | 02/11/2024               | Criação do documento | [Giovanni Giampauli](https://github.com/giovanniacg) | [Gustavo Melo](https://github.com/gusrberto) | [#26](https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_01/pull/26) |
+>>>>>>> 5e4863cde6103530d8b653fabcc76be7b68a13c4
