@@ -1,7 +1,7 @@
 # compiled output
-simulado-enem/dist
-simulado-enem/node_modules
-simulado-enem/build
+*/dist
+*/node_modules
+*/build
 
 # Logs
 logs
