@@ -7,26 +7,22 @@
   "license": "UNLICENSED",
   "main": "./src/index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "test": "",
+    "lint": "next lint"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-scripts": "^5.0.1"
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "next": "^15.1.7",
+    "react-hook-form": "^7.54.2"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "@types/node": "22.13.4",
+    "eslint": "9.20.1",
+    "eslint-config-next": "15.1.7",
+    "typescript": "5.7.3"
   }
 }
